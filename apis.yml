@@ -1,12 +1,21 @@
+aid: lean-management
 name: Lean Management
-description: Lean Management is the discipline of planning, organizing, and overseeing
-  lean-related activities to achieve optimal outcomes. It encompasses the processes,
-  tools, and strategies needed to effectively coordinate and control lean resources
-  across an organization.
-url: null
+description: >-
+  Lean Management is the discipline of planning, organizing, and overseeing
+  lean-related activities to achieve optimal outcomes. It encompasses the
+  processes, tools, and strategies needed to effectively coordinate and control
+  lean resources across an organization.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Lean Management
-created: '2025'
-modified: '2025'
+  - Lean Management
+  - Operations
+  - Process Improvement
+url: https://raw.githubusercontent.com/api-evangelist/lean-management/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
