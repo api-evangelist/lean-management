@@ -30,6 +30,8 @@ common:
     url: https://en.wikipedia.org/wiki/Lean_manufacturing
   - type: Reference
     url: https://www.lean.org/explore-lean/what-is-lean/
+  - type: LLMsTxt
+    url: https://www.lean.org/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
