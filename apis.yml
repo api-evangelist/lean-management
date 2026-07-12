@@ -32,6 +32,8 @@ common:
     url: https://www.lean.org/explore-lean/what-is-lean/
   - type: LlmsText
     url: https://www.lean.org/llms.txt
+  - url: https://www.lean.org/the-lean-post/articles/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
