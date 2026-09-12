@@ -55,6 +55,8 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Website
+    url: https://www.lean.org/
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Lean_manufacturing
   - type: Reference
