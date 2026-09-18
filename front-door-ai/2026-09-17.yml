@@ -1,0 +1,26 @@
+# Front Door AI Index — lean-management — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: lean-management
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.lean.org
+  final_host: www.lean.org
+  ownership: unresolved
+  owner: null
+  shares_host_with:
+  - lean-six-sigma
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 5
+  density: null
+  words: 1165
+  tiers:
+    agentic: 0
+    core: 5
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 5
